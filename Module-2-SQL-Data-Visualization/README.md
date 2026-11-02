@@ -14,7 +14,36 @@ This module focuses on developing SQL skills for data extraction, transformation
 - Google Analytics 4 (GA4) data analysis using BigQuery
 
 ## Projects
-Project files and links will be added as the assignments are completed and reviewed.
+
+### 1. SQL Marketing Campaign Analysis
+SQL analysis of Facebook advertising campaign performance using CPC, CPM, CTR, and ROMI metrics.
+
+[View Project](https://github.com/seymanursayit/sql-marketing-campaign-analysis)
+
+### 2. SQL Advertising Data Integration
+Combining Facebook Ads and Google Ads data using SQL, CTEs, JOIN, and UNION.
+
+[View Project](https://github.com/seymanursayit/sql-advertising-data-integration)
+
+### 3. Looker Studio Marketing Dashboard
+Interactive marketing campaign dashboard built with Google Looker Studio and PostgreSQL.
+
+[View Project](https://github.com/seymanursayit/looker-studio-marketing-dashboard)
+
+### 4. SQL UTM Campaign Analysis
+Analyzing advertising data using string functions, UTM parameter extraction, CASE statements, and NULL handling.
+
+[View Project](https://github.com/seymanursayit/sql-utm-campaign-analysis)
+
+### 5. SQL Window Functions Campaign Analysis
+Monthly marketing campaign analysis using date functions, CTEs, window functions, and LAG.
+
+[View Project](https://github.com/seymanursayit/sql-window-functions-campaign-analysis)
+
+### 6. BigQuery GA4 E-commerce Analysis
+Analyzing e-commerce user behavior, conversion funnels, landing pages, and user engagement using Google BigQuery and GA4.
+
+[View Project](https://github.com/seymanursayit/bigquery-ga4-ecommerce-analysis)
 
 ---
 
